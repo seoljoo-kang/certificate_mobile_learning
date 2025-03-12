@@ -35606,8 +35606,8 @@ O(a){var s=null,r=t.pG.a(A.w4(a,s,t.X).c.b)
 return A.amk(A.ajz(B.kN,!0,A.iq("Your Mobile Learning Certificate",s,s,s,A.apl().$2$color$fontWeight(B.D,B.bM),s,s)),A.Tc(new A.FF(new A.SE(r),s),B.R,new A.dD(s,s,s,s,s,new A.mY(B.bZ,B.jY,B.bz,A.c([B.kv,B.eH],t.t_),s,s),B.aR),s,s,s,s))}}
 A.SE.prototype={
 $2(a,b){var s,r=null,q=b.b,p=q/0.7727272727272727
-if(p>1000){s=772.7272727272727
-p=1000}else s=q
+if(p>1400){s=1081.8181818181818
+p=1400}else s=q
 return A.mb(A.lc(A.qo(B.a0,A.c([new A.ve(A.awy(r,r,new A.ty("assets/certificate_template.png",r,r)),B.y3,r),new A.dV(new A.aI(0,s*0.2,0,0),A.iq(this.a.a,r,r,r,A.hq(r,r,B.l,r,r,r,r,r,r,r,r,s*0.1*0.4,r,r,B.bM,r,r,!0,r,r,r,r,r,r,r,r),B.h2,r),r)],t.E),B.a9,B.d8),p,s),r,r)},
 $S:255}
 A.G7.prototype={
